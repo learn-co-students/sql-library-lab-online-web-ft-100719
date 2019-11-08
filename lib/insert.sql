@@ -38,7 +38,7 @@ INSERT INTO characters
   (id, name, motto, species, author_id)
 VALUES
   (5, "Frodo", "I will take the ring.", "hobbit", 2),
-  (6, "Aragorn", "A day may come when the courage of men fails… but it is not THIS day.", "dunadan", 2),
+  (6, "Aragorn", "A day may come when the courage of men fails...but it is not THIS day.", "dunadan", 2),
   (7, "Gandalf", "Fly, you fools!", "maia", 2),
   (8, "Samwise", "I can't carry it for you...but I can carry you!", "hobbit", 2);
 
